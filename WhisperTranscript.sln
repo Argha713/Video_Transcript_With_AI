@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhisperTranscript", "WhisperTranscript\WhisperTranscript.csproj", "{22E89412-9AA3-49DE-B768-A7F0A6E4B823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E89412-9AA3-49DE-B768-A7F0A6E4B823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E89412-9AA3-49DE-B768-A7F0A6E4B823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E89412-9AA3-49DE-B768-A7F0A6E4B823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E89412-9AA3-49DE-B768-A7F0A6E4B823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C890F5-9879-4DD9-8087-4DE5ED018910}
+	EndGlobalSection
+EndGlobal
