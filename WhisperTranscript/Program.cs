@@ -125,7 +125,7 @@ namespace WhisperTranscript
                 }
                 catch (JsonException ex)
                 {
-                    
+                    //Exception
                 }
             }
 
